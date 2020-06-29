@@ -2,7 +2,7 @@
 A project to calculate cloud coverage over an area
 
 Cloud coverage is an important measurement for meteorological observations and predictions. This project implements different methods to calculate the cloud coverage via deep learning and image processing techniques. 
-This project was done under the guidance of the [Indian Metereological Department](https://mausam.imd.gov.in), as part of our Practice School-I program at BITS Pilani.
+This project was done under the guidance of the [Indian Metereological Department](https://mausam.imd.gov.in), as part of our Practice School-1 program at BITS Pilani.
 
 ### OKTA
 [Okta](https://en.wikipedia.org/wiki/Okta) is a standard unit of measurement for cloud cover for meteorological purposes. It is an integer value ranging from 0 to 8, where a 0 okta coverage denotes clear skies, and a 8 okta coverage denotes completely cloudy sky.
