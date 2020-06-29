@@ -13,7 +13,7 @@ The project includes the following implementations:
 3. Semantic Segmentation: This program creates a CNN to train the model on visible cloud images. The model performs semantic segmentation on the image and generates binarised map of the image.
 4. UNET deep learning model: This program uses a UNET neural network architecture to perform semantic segmentation on visible light images of the sky. 
 
-# Detailed Explanation in Report
+#### Detailed Explanation in Report
 
 Project done by:
 
